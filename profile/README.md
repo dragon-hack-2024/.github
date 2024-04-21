@@ -1,4 +1,6 @@
 # Dragon Hack 2024 AtlasDev
 This organization holds repositories used in Dragon Hack 2024.
 - [dhack-api](https://github.com/dragon-hack-2024/dhack-api): Backend application
-- [dhack-web](https://github.com/dragon-hack-2024/dhack-web): Frontend application
+- [front](https://github.com/dragon-hack-2024/front): Frontend application
+
+We created smart skipping rope that counts number of skips per minute and calculate calories burned. It also generates electricty by spinning the rope.
